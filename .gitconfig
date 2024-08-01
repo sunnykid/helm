@@ -1,0 +1,5 @@
+[safe]
+	directory = /home/argocd
+[user]
+	email = sunnykid7@gmail.com
+	name = sunnykid
